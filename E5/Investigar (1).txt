@@ -1,0 +1,3 @@
+https://www.hostinger.mx/tutoriales/comando-curl
+https://terminalcheatsheet.com/es/guides/curl-rest-api
+https://codefather.tech/blog/curl-bash-script/
